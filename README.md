@@ -1,4 +1,4 @@
-# alphavantage-stocks
+# CZ1015 DSAI alphavantage-stocks
 Predicting the stock market with data from Alphavantage
 
 Data Science project on Time Series Forecasting 
